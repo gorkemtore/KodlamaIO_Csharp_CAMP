@@ -1,0 +1,17 @@
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\bin\Debug\net8.0-windows\RecapDamaTahtasi.exe
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\bin\Debug\net8.0-windows\RecapDamaTahtasi.deps.json
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\bin\Debug\net8.0-windows\RecapDamaTahtasi.runtimeconfig.json
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\bin\Debug\net8.0-windows\RecapDamaTahtasi.dll
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\bin\Debug\net8.0-windows\RecapDamaTahtasi.pdb
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.Form1.resources
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.csproj.GenerateResource.cache
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.AssemblyInfoInputs.cache
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.AssemblyInfo.cs
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.sourcelink.json
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.dll
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\refint\RecapDamaTahtasi.dll
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.pdb
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\RecapDamaTahtasi.genruntimeconfig.cache
+C:\Users\gorkemtore\Documents\csharp_projects\Homeworks\RecapDamaTahtasi\RecapDamaTahtasi\obj\Debug\net8.0-windows\ref\RecapDamaTahtasi.dll
